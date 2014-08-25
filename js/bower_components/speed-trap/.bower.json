@@ -1,0 +1,46 @@
+{
+  "name": "speed-trap",
+  "version": "0.0.5",
+  "homepage": "https://github.com/shane-tomlinson/speed-trap",
+  "authors": [
+    "Shane Tomlinson <shane@shanetomlinson.com>"
+  ],
+  "description": "Capture RUM - timers, events, navigation timing, resource timi    ng.",
+  "main": "dist/speed-trap.js",
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "RUM",
+    "metrics",
+    "timers",
+    "events",
+    "navigationTiming",
+    "resourceTiming",
+    "timing",
+    "page speed",
+    "speed",
+    "performance",
+    "measure",
+    "screen size"
+  ],
+  "license": "MPL2.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "_release": "0.0.5",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.0.5",
+    "commit": "1ffe3b74c4fd634f14a4879c131db680334ed9b7"
+  },
+  "_source": "git://github.com/shane-tomlinson/speed-trap.git",
+  "_target": "0.0.5",
+  "_originalSource": "speed-trap"
+}

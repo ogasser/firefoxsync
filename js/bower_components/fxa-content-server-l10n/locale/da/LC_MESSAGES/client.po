@@ -1,0 +1,759 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-08-19 20:39+0000\n"
+"PO-Revision-Date: 2014-08-21 12:25+0000\n"
+"Last-Translator: Jørgen   <joergenr@stofanet.dk>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: da\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1408623912.0\n"
+
+#: app/scripts/templates/sign_up.mustache:15
+msgid "1991"
+msgstr "1991"
+
+#: app/scripts/templates/sign_up.mustache:16
+msgid "1992"
+msgstr "1992"
+
+#: app/scripts/templates/sign_up.mustache:17
+msgid "1993"
+msgstr "1993"
+
+#: app/scripts/templates/sign_up.mustache:18
+msgid "1994"
+msgstr "1994"
+
+#: app/scripts/templates/sign_up.mustache:19
+msgid "1995"
+msgstr "1995"
+
+#: app/scripts/templates/sign_up.mustache:20
+msgid "1996"
+msgstr "1996"
+
+#: app/scripts/templates/sign_up.mustache:21
+msgid "1997"
+msgstr "1997"
+
+#: app/scripts/templates/sign_up.mustache:22
+msgid "1998"
+msgstr "1998"
+
+#: app/scripts/templates/sign_up.mustache:23
+msgid "1999"
+msgstr "1999"
+
+#: app/scripts/templates/sign_up.mustache:24
+msgid "2000"
+msgstr "2000"
+
+#: app/scripts/templates/sign_up.mustache:25
+msgid "2001"
+msgstr "2001"
+
+#: app/scripts/templates/sign_up.mustache:26
+msgid "2002"
+msgstr "2002"
+
+#: app/scripts/templates/sign_up.mustache:27
+msgid "2003"
+msgstr "2003"
+
+#: app/scripts/templates/sign_up.mustache:28
+msgid "2004"
+msgstr "2004"
+
+#: app/scripts/templates/sign_up.mustache:29
+msgid "2005"
+msgstr "2005"
+
+#: app/scripts/templates/sign_up.mustache:30
+msgid "2006"
+msgstr "2006"
+
+#: app/scripts/templates/sign_up.mustache:31
+msgid "2007"
+msgstr "2007"
+
+#: app/scripts/views/base.js:531
+msgid "missing search parameter: %(itemName)s"
+msgstr "manglende søgeparameter: %(itemName)s"
+
+#: app/scripts/views/change_password.js:67
+msgid "Password changed"
+msgstr "Adgangskode ændret"
+
+#: app/scripts/views/change_password.js:71
+msgid ""
+"Unverified account. <a href=\"#\" id=\"resend\">Resend verification email</"
+"a>."
+msgstr ""
+"Ubekræftet konto. <a href=\"#\" id=\"resend\">Send bekræftelsesmail igen</a>."
+
+#: app/scripts/views/confirm_reset_password.js:68
+msgid "Password reset. Sign in to continue."
+msgstr "Adgangskode nulstillet. Log ind for at fortsætte."
+
+#: app/scripts/views/delete_account.js:46
+msgid "Account deleted successfully"
+msgstr "Konto slettet korrekt"
+
+#: app/scripts/views/force_auth.js:44
+msgid "/force_auth requires an email"
+msgstr "/force_auth kræver en mailadresse"
+
+#: app/scripts/views/reset_password.js:76 app/scripts/views/sign_in.js:127
+msgid "Unknown account. <a href=\"/signup\">Sign up</a>"
+msgstr "Ukendt konto. <a href=\"/signup\">Tilmeld dig</a>"
+
+#: app/scripts/views/settings.js:42
+msgid "Signed out"
+msgstr "Logget ud"
+
+#: app/scripts/views/sign_up.js:214
+msgid "Account already exists. <a href=\"/signin\">Sign in</a>"
+msgstr "Kontoen findes allerede. <a href=\"/signin\">Log ind</a>"
+
+#: app/scripts/views/settings/avatar_gravatar.js:58
+msgid "No Gravatar found"
+msgstr "Ingen gravatar fundet"
+
+#: app/scripts/views/settings/avatar_gravatar.js:78
+msgid "Courtesy of <a href=\"https://www.gravatar.com\">Gravatar</a>"
+msgstr "Leveret af <a href=\"https://www.gravatar.com\">Gravatar</a>"
+
+#: app/scripts/lib/auth-errors.js:59 app/scripts/lib/oauth-errors.js:41
+#: app/scripts/lib/profile-client.js:76 app/scripts/lib/profile-client.js:80
+#: app/scripts/templates/unexpected_error.mustache:1
+msgid "Unexpected error"
+msgstr "Uventet fejl"
+
+#: app/scripts/lib/auth-errors.js:60
+msgid "Invalid token"
+msgstr "Ugyldig token"
+
+#: app/scripts/lib/auth-errors.js:61
+msgid "Invalid timestamp in request signature"
+msgstr "Ugyldig tidsstempel i request signature"
+
+#: app/scripts/lib/auth-errors.js:62
+msgid "Invalid nonce in request signature"
+msgstr "Ugyldig nonce i request signature"
+
+#: app/scripts/lib/auth-errors.js:63 app/scripts/lib/strings.js:25
+msgid "Account already exists"
+msgstr "Kontoen findes allerede"
+
+#: app/scripts/lib/auth-errors.js:64
+msgid "Unknown account"
+msgstr "Ukendt konto"
+
+#: app/scripts/lib/auth-errors.js:65
+msgid "Incorrect email case"
+msgstr "Forkert. Versalfølsom mailadresse"
+
+#: app/scripts/lib/auth-errors.js:66
+msgid "Incorrect password"
+msgstr "Forkert adgangskode"
+
+#: app/scripts/lib/auth-errors.js:67
+msgid "Unverified account"
+msgstr "Ubekræftet konto"
+
+#: app/scripts/lib/auth-errors.js:68
+msgid "Invalid verification code"
+msgstr "Ugyldig bekræftelseskode"
+
+#: app/scripts/lib/auth-errors.js:69
+msgid "Invalid JSON in request body"
+msgstr "Ugyldig JSON i request body"
+
+#: app/scripts/lib/auth-errors.js:70 app/scripts/lib/oauth-errors.js:36
+#: app/scripts/lib/profile-client.js:77
+msgid "Invalid parameter in request body: %(param)s"
+msgstr "Ugyldig parameter i request body: %(param)s"
+
+#: app/scripts/lib/auth-errors.js:71
+msgid "Missing parameter in request body: %(param)s"
+msgstr "Manglende parameter i request body: %(param)s"
+
+#: app/scripts/lib/auth-errors.js:72 app/scripts/lib/oauth-errors.js:37
+msgid "Invalid request signature"
+msgstr "Ugyldig request signature"
+
+#: app/scripts/lib/auth-errors.js:73
+msgid "Missing content-length header"
+msgstr "Manglende content-length header"
+
+#: app/scripts/lib/auth-errors.js:74
+msgid "Request body too large"
+msgstr "Request body er for stor"
+
+#: app/scripts/lib/auth-errors.js:75
+msgid "Attempt limit exceeded"
+msgstr "Forsøgsgrænse overskredet"
+
+#: app/scripts/lib/auth-errors.js:76
+msgid "Server busy, try again soon"
+msgstr "Serveren er optaget, prøv igen om lidt"
+
+#: app/scripts/lib/auth-errors.js:77
+msgid "This endpoint is no longer supported"
+msgstr "Dette endpoint understøttes ikke længere"
+
+#: app/scripts/lib/auth-errors.js:80 app/scripts/lib/oauth-errors.js:40
+#: app/scripts/lib/profile-client.js:79
+msgid "System unavailable, try again soon"
+msgstr "Systemet er ikke tilgængeligt, prøv igen om lidt"
+
+#: app/scripts/lib/auth-errors.js:81
+msgid "Session expired. Sign in to continue."
+msgstr "Sessionen udløb. Log ind for at fortsætte."
+
+#: app/scripts/lib/auth-errors.js:82
+msgid "Cookies are still disabled"
+msgstr "Cookies er stadig deaktiveret"
+
+#: app/scripts/lib/auth-errors.js:83
+msgid "Passwords do not match"
+msgstr "Adgangskoderne matcher ikke"
+
+#: app/scripts/lib/auth-errors.js:84
+msgid "Working…"
+msgstr "Arbejder…"
+
+#: app/scripts/lib/auth-errors.js:85
+msgid "Could not get Privacy Notice"
+msgstr "Kunne ikke hente Privatlivspolitik"
+
+#: app/scripts/lib/auth-errors.js:86
+msgid "Could not get Terms of Service"
+msgstr "Kunne ikke hente tjenestevilkår"
+
+#: app/scripts/lib/auth-errors.js:87
+msgid "Your new password must be different"
+msgstr "Din nye adgangskode skal være forskellig"
+
+#: app/scripts/lib/auth-errors.js:88 app/scripts/lib/strings.js:23
+#: app/scripts/templates/change_password.mustache:7
+#: app/scripts/templates/complete_reset_password.mustache:14
+#: app/scripts/templates/sign_up.mustache:11
+msgid "Must be at least 8 characters"
+msgstr "Skal indeholde mindst 8 tegn"
+
+#: app/scripts/lib/auth-errors.js:89 app/scripts/lib/strings.js:19
+msgid "Valid password required"
+msgstr "Gyldig adgangskode påkrævet"
+
+#: app/scripts/lib/auth-errors.js:90 app/scripts/lib/strings.js:18
+msgid "Valid email required"
+msgstr "Gyldig mailadresse påkrævet"
+
+#: app/scripts/lib/auth-errors.js:91 app/scripts/lib/strings.js:24
+msgid "Year of birth required"
+msgstr "Fødselsår er påkrævet"
+
+#: app/scripts/lib/auth-errors.js:92
+msgid "A usable image was not found"
+msgstr "Et brugbart billede blev ikke fundet"
+
+#: app/scripts/lib/auth-errors.js:93
+msgid "Could not initialize camera"
+msgstr "Kunne ikke initialisere kamera"
+
+#: app/scripts/lib/auth-errors.js:94
+msgid "Valid URL required"
+msgstr "Gyldig URL påkrævet"
+
+#: app/scripts/lib/oauth-errors.js:33
+msgid "Unknown client"
+msgstr "Ukendt klient"
+
+#: app/scripts/lib/oauth-errors.js:34
+msgid "Incorrect redirect_uri"
+msgstr "Forkert redirect_uri"
+
+#: app/scripts/lib/oauth-errors.js:35
+msgid "Invalid assertion"
+msgstr "Ugyldig assertion"
+
+#: app/scripts/lib/oauth-errors.js:42
+msgid "Something went wrong. Please close this tab and try again."
+msgstr "Noget gik galt. Luk dette faneblad og prøv igen."
+
+#: app/scripts/lib/service-name.js:16
+msgid "Firefox Sync"
+msgstr "Firefox Sync"
+
+#: app/scripts/lib/strings.js:20
+msgid "Invalid password"
+msgstr "Ugyldig adgangskode"
+
+#: app/scripts/lib/strings.js:21
+msgid "Invalid email and password"
+msgstr "Ugyldig mailadresse og adgangskode"
+
+#: app/scripts/lib/strings.js:22
+msgid "Invalid email or password"
+msgstr "Ugyldig mailadresse eller adgangskode"
+
+#: app/scripts/lib/strings.js:26
+msgid "Old password invalid"
+msgstr "Gammel adgangskode ugyldig"
+
+#: app/scripts/lib/strings.js:27
+msgid "New password invalid"
+msgstr "Ny adgangskode ugyldig"
+
+#: app/scripts/lib/strings.js:28
+msgid "Passwords don't match"
+msgstr "Adgangskoderne matcher ikke"
+
+#: app/scripts/lib/strings.js:29
+msgid "Please enter an email"
+msgstr "Indtast en mailadresse"
+
+#: app/scripts/lib/strings.js:30
+msgid "Cannot connect to the internet"
+msgstr "Kan ikke forbinde til internettet"
+
+#: app/scripts/lib/strings.js:34
+msgid "Subscribe to Firefox news and tips"
+msgstr "Abonner på nyheder og tips om Firefox"
+
+#: app/scripts/templates/cannot_create_account.mustache:1
+msgid "Cannot create account"
+msgstr "Kan ikke oprette en konto"
+
+#: app/scripts/templates/cannot_create_account.mustache:2
+msgid ""
+"You must meet certain age requirements to create a Firefox&nbsp;Account."
+msgstr "Du skal opfylde visse alderskriterier for at oprette en Firefox-konto."
+
+#: app/scripts/templates/cannot_create_account.mustache:3
+msgid "Learn more."
+msgstr "Læs mere."
+
+#: app/scripts/templates/change_password.mustache:1
+#: app/scripts/templates/settings.mustache:5
+msgid "Change password"
+msgstr "Skift adgangskode"
+
+#: app/scripts/templates/change_password.mustache:2
+msgid ""
+"Once you're ﬁnished, use your new password to sign in on all of your devices."
+msgstr ""
+"Når du er færdig, kan du bruge den nye adgangskode til at logge ind på alle "
+"dine enheder."
+
+#: app/scripts/templates/change_password.mustache:3
+msgid "Old password"
+msgstr "Gammel adgangskode"
+
+#: app/scripts/templates/change_password.mustache:4
+#: app/scripts/templates/change_password.mustache:6
+#: app/scripts/templates/complete_reset_password.mustache:11
+#: app/scripts/templates/complete_reset_password.mustache:13
+#: app/scripts/templates/delete_account.mustache:4
+#: app/scripts/templates/force_auth.mustache:5
+#: app/scripts/templates/sign_in.mustache:9
+#: app/scripts/templates/sign_up.mustache:10
+msgid "Show"
+msgstr "Vis"
+
+#: app/scripts/templates/change_password.mustache:5
+#: app/scripts/templates/complete_reset_password.mustache:10
+msgid "New password"
+msgstr "Ny adgangskode"
+
+#: app/scripts/templates/change_password.mustache:8
+msgid "Confirm"
+msgstr "Bekræft"
+
+#: app/scripts/templates/change_password.mustache:9
+#: app/scripts/templates/delete_account.mustache:6
+#: app/scripts/templates/pp.mustache:3
+#: app/scripts/templates/reset_password.mustache:6
+#: app/scripts/templates/tos.mustache:3
+msgid "Back"
+msgstr "Tilbage"
+
+#: app/scripts/templates/complete_reset_password.mustache:1
+msgid "Reset password link expired"
+msgstr "Link til nulstilling af adgangskode udløb"
+
+#: app/scripts/templates/complete_reset_password.mustache:2
+#: app/scripts/templates/complete_sign_up.mustache:2
+#: app/scripts/templates/confirm.mustache:2
+#: app/scripts/templates/confirm_reset_password.mustache:2
+msgid "Email resent"
+msgstr "Mail sendt igen"
+
+#: app/scripts/templates/complete_reset_password.mustache:3
+msgid "The link you clicked to reset your password is expired."
+msgstr "Linket du klikkede på for at nulstille din adgangskode er udløbet."
+
+#: app/scripts/templates/complete_reset_password.mustache:4
+msgid "Click here to receive a new reset link"
+msgstr "Klik her for at modtage et nyt link til nulstilling"
+
+#: app/scripts/templates/complete_reset_password.mustache:6
+msgid "Reset password link damaged"
+msgstr "Link til nulstilling af adgangskode beskadiget"
+
+#: app/scripts/templates/complete_reset_password.mustache:7
+#: app/scripts/templates/complete_sign_up.mustache:8
+msgid ""
+"The link you clicked was missing characters, and may have been broken by "
+"your email client. Copy the address carefully, and try again."
+msgstr ""
+"Linket du klikkede på manglede tegn, og kan være blevet ødelagt af dit "
+"mailprogram. Kopier adressen, og prøv igen."
+
+#: app/scripts/templates/complete_reset_password.mustache:9
+#: app/scripts/templates/reset_password.mustache:1
+msgid "Reset password"
+msgstr "Nulstil adgangskode"
+
+#: app/scripts/templates/complete_reset_password.mustache:12
+msgid "Repeat password"
+msgstr "Gentag adgangskode"
+
+#: app/scripts/templates/complete_reset_password.mustache:15
+#: app/scripts/templates/reset_password.mustache:5
+#: app/scripts/templates/sign_up.mustache:33
+#: app/scripts/templates/settings/avatar_url.mustache:5
+msgid "Next"
+msgstr "Næste"
+
+#: app/scripts/templates/complete_sign_up.mustache:1
+msgid "Verification link expired"
+msgstr "Bekræftelseslink er forældet"
+
+#: app/scripts/templates/complete_sign_up.mustache:3
+msgid "The link you clicked to verify your email is expired."
+msgstr "Linket du klikkede på for at bekræfte din mailadresse er udløbet."
+
+#: app/scripts/templates/complete_sign_up.mustache:4
+msgid "Click here to receive a new verification link"
+msgstr "Klik her for at modtage et nyt bekræftelseslink"
+
+#: app/scripts/templates/complete_sign_up.mustache:7
+msgid "Verification link damaged"
+msgstr "Bekræftelseslink beskadiget"
+
+#: app/scripts/templates/complete_sign_up.mustache:10
+msgid "Verification error"
+msgstr "Bekræftelsesfejl"
+
+#: app/scripts/templates/confirm.mustache:1
+msgid "Confirm your account"
+msgstr "Bekræft din konto"
+
+#: app/scripts/templates/confirm.mustache:3
+#: app/scripts/templates/confirm_reset_password.mustache:3
+msgid "Email Sent"
+msgstr "Mail sendt"
+
+#: app/scripts/templates/confirm.mustache:4
+msgid "A verification link has been sent&nbsp;to %(email)s"
+msgstr "Et bekræftelseslink er blevet sendt&nbsp;til: %(email)s"
+
+#: app/scripts/templates/confirm.mustache:5
+#: app/scripts/templates/confirm_reset_password.mustache:8
+msgid "Resend email"
+msgstr "Send mail igen"
+
+#: app/scripts/templates/confirm_reset_password.mustache:1
+msgid "Reset email sent"
+msgstr "Mail til nulstilling sendt"
+
+#: app/scripts/templates/confirm_reset_password.mustache:4
+msgid "A reset link has been sent to %(email)s"
+msgstr "Et link til nulstilling er blevet sendt til %(email)s"
+
+#: app/scripts/templates/confirm_reset_password.mustache:5
+#: app/scripts/templates/confirm_reset_password.mustache:7
+#: app/scripts/templates/force_auth.mustache:6
+#: app/scripts/templates/sign_in.mustache:1
+#: app/scripts/templates/sign_in.mustache:4
+#: app/scripts/templates/sign_in.mustache:10
+msgid "Sign in"
+msgstr "Log ind"
+
+#: app/scripts/templates/cookies_disabled.mustache:1
+msgid "Cookies required"
+msgstr "Cookies påkrævet"
+
+#: app/scripts/templates/cookies_disabled.mustache:2
+msgid ""
+"Please enable cookies in your browser which are required by Firefox "
+"Accounts. Cookies are small pieces of data stored in your browser that "
+"provide functionality such as remembering you between sessions."
+msgstr ""
+"For at bruge Firefox-konti skal du aktivere cookies i din browser. Cookies "
+"er små tekstfiler, der opbevares i din browser. De gør det muligt at huske "
+"dig mellem sessioner."
+
+#: app/scripts/templates/cookies_disabled.mustache:3
+msgid "Learn more"
+msgstr "Læs mere"
+
+#: app/scripts/templates/cookies_disabled.mustache:4
+msgid "Try again"
+msgstr "Prøv igen"
+
+#: app/scripts/templates/delete_account.mustache:1
+#: app/scripts/templates/delete_account.mustache:5
+#: app/scripts/templates/settings.mustache:6
+msgid "Delete account"
+msgstr "Slet konto"
+
+#: app/scripts/templates/delete_account.mustache:2
+msgid ""
+"Are you sure you want to delete your account? This action cannot be undone."
+msgstr "Er du sikker på, at du vil slette din konto? Dette kan ikke fortrydes."
+
+#: app/scripts/templates/delete_account.mustache:3
+#: app/scripts/templates/force_auth.mustache:3
+#: app/scripts/templates/sign_in.mustache:7
+#: app/scripts/templates/sign_up.mustache:8
+msgid "Password"
+msgstr "Adgangskode"
+
+#: app/scripts/templates/force_auth.mustache:1
+msgid "Sign in to continue"
+msgstr "Log ind for at fortsætte"
+
+#: app/scripts/templates/force_auth.mustache:7
+#: app/scripts/templates/sign_in.mustache:11
+msgid "Forgot password?"
+msgstr "Glemt adgangskode?"
+
+#: app/scripts/templates/force_auth.mustache:8
+#: app/scripts/templates/sign_in.mustache:13
+#: app/scripts/templates/sign_up.mustache:32
+msgid ""
+"By proceeding, I agree to the <a id=\"fxa-tos\" href=\"/legal/terms\">Terms "
+"of Service</a> and <a id=\"fxa-pp\" href=\"/legal/privacy\">Privacy Notice</"
+"a> of Firefox cloud services."
+msgstr ""
+"Fortsætter du, accepterer du <a id=\"fxa-tos\" href=\"/legal/terms"
+"\">tjenestevilkår</a> og <a id=\"fxa-pp\" href=\"/legal/privacy"
+"\">privatlivspolitik</a> for Firefox online-tjenester."
+
+#: app/scripts/templates/legal.mustache:1 app/scripts/templates/pp.mustache:1
+#: app/scripts/templates/tos.mustache:1
+msgid "Firefox cloud services"
+msgstr "Firefox online-tjenester"
+
+#: app/scripts/templates/legal.mustache:2
+msgid "Legal"
+msgstr "Juridisk"
+
+#: app/scripts/templates/legal.mustache:3
+#: app/scripts/templates/settings.mustache:7
+#: app/scripts/templates/tos.mustache:2
+msgid "Terms of Service"
+msgstr "Tjenestevilkår"
+
+#: app/scripts/templates/legal.mustache:4 app/scripts/templates/pp.mustache:2
+#: app/scripts/templates/settings.mustache:8
+msgid "Privacy Notice"
+msgstr "Privatlivspolitik"
+
+#: app/scripts/templates/marketing_snippet.mustache:1
+msgid "Stay in sync on the go:"
+msgstr "Hold dig synkroniseret på farten:"
+
+#: app/scripts/templates/marketing_snippet.mustache:2
+msgid "Get Firefox for Android"
+msgstr "Hent Firefox til Android"
+
+#: app/scripts/templates/ready.mustache:1
+msgid "Account verified"
+msgstr "Konto bekræftet"
+
+#: app/scripts/templates/ready.mustache:3
+msgid "Password reset"
+msgstr "Adgangskode nulstillet"
+
+#: app/scripts/templates/ready.mustache:5
+msgid "Success"
+msgstr "Lykkedes"
+
+#: app/scripts/templates/ready.mustache:6
+msgid "You are now ready to use %(serviceName)s"
+msgstr "Du er nu klar til at bruge %(serviceName)s"
+
+#: app/scripts/templates/ready.mustache:8
+msgid "Your account is ready!"
+msgstr "Din konto er klar!"
+
+#: app/scripts/templates/reset_password.mustache:2
+msgid "Enter your email to reset&nbsp;the account password."
+msgstr ""
+"Indtast din mailadresse for at nulstille&nbsp;adgangskoden til kontoen."
+
+#: app/scripts/templates/reset_password.mustache:3
+#: app/scripts/templates/sign_in.mustache:6
+#: app/scripts/templates/sign_up.mustache:6
+msgid "Email"
+msgstr "Mailadresse"
+
+#: app/scripts/templates/reset_password.mustache:4
+msgid ""
+"For security reasons, resetting your password will erase your Sync data from "
+"our servers. A new Sync backup will be created from your local browsing data."
+msgstr ""
+"Af sikkerhedsgrunde vil nulstilling af din adgangskode slette dine Sync-data "
+"fra vores servere. En ny Sync-backup vil blive oprettet fra dine lokale "
+"browserdata."
+
+#: app/scripts/templates/settings.mustache:1
+#: app/scripts/templates/settings/avatar.mustache:1
+#: app/scripts/templates/settings/avatar_camera.mustache:1
+#: app/scripts/templates/settings/avatar_change.mustache:1
+#: app/scripts/templates/settings/avatar_crop.mustache:1
+#: app/scripts/templates/settings/avatar_gravatar.mustache:1
+#: app/scripts/templates/settings/avatar_url.mustache:1
+msgid "Manage account"
+msgstr "Håndter konto"
+
+#: app/scripts/templates/settings.mustache:2
+msgid "You are signed in as"
+msgstr "Du er logget ind som"
+
+#: app/scripts/templates/settings.mustache:3
+msgid "Sign out"
+msgstr "Log ud"
+
+#: app/scripts/templates/sign_in.mustache:2
+#: app/scripts/templates/sign_up.mustache:2
+msgid "Continue to %(serviceName)s"
+msgstr "Fortsæt til %(serviceName)s"
+
+#: app/scripts/templates/sign_in.mustache:12
+msgid "Create an account"
+msgstr "Opret en konto"
+
+#: app/scripts/templates/sign_up.mustache:1
+#: app/scripts/templates/sign_up.mustache:4
+msgid "Create a Firefox Account"
+msgstr "Opret en Firefox-konto"
+
+#: app/scripts/templates/sign_up.mustache:13
+msgid "Year of birth"
+msgstr "Fødselsår"
+
+#: app/scripts/templates/sign_up.mustache:14
+msgid "1990 or earlier"
+msgstr "1990 eller tidligere"
+
+#: app/scripts/templates/sign_up.mustache:34
+msgid "Choose what to sync"
+msgstr "Vælg hvad der skal synkroniseres"
+
+#: app/scripts/templates/sign_up.mustache:36
+msgid "Already have an account? Sign in."
+msgstr "Har du allerede en konto? Log ind."
+
+#: app/scripts/templates/unexpected_error.mustache:2
+msgid "Home"
+msgstr "Start"
+
+#: app/scripts/templates/settings/avatar.mustache:2
+#: app/scripts/templates/settings/avatar_camera.mustache:2
+#: app/scripts/templates/settings/avatar_change.mustache:2
+#: app/scripts/templates/settings/avatar_crop.mustache:2
+#: app/scripts/templates/settings/avatar_gravatar.mustache:2
+#: app/scripts/templates/settings/avatar_url.mustache:2
+msgid "Account picture"
+msgstr "Kontobillede"
+
+#: app/scripts/templates/settings/avatar.mustache:4
+msgid "Change"
+msgstr "Skift"
+
+#: app/scripts/templates/settings/avatar_camera.mustache:4
+msgid "Take picture"
+msgstr "Tag billede"
+
+#: app/scripts/templates/settings/avatar_camera.mustache:5
+#: app/scripts/templates/settings/avatar_crop.mustache:5
+#: app/scripts/templates/settings/avatar_gravatar.mustache:5
+#: app/scripts/templates/settings/avatar_url.mustache:6
+msgid "Cancel"
+msgstr "Annuller"
+
+#: app/scripts/templates/settings/avatar_change.mustache:4
+msgid "Upload"
+msgstr "Upload"
+
+#: app/scripts/templates/settings/avatar_change.mustache:5
+msgid "URL"
+msgstr "URL"
+
+#: app/scripts/templates/settings/avatar_change.mustache:6
+msgid "Camera"
+msgstr "Kamera"
+
+#: app/scripts/templates/settings/avatar_change.mustache:7
+msgid "Gravatar"
+msgstr "Gravatar"
+
+#: app/scripts/templates/settings/avatar_crop.mustache:3
+msgid "Position and rotate your picture as needed"
+msgstr "Placer og drej dit billede efter behov"
+
+#: app/scripts/templates/settings/avatar_crop.mustache:4
+#: app/scripts/templates/settings/avatar_gravatar.mustache:4
+msgid "Save"
+msgstr "Gem"
+
+#: app/scripts/templates/settings/avatar_url.mustache:4
+msgid "Paste image URL"
+msgstr "Indsæt billed-URL"
+
+#~ msgid "Signed in successfully"
+#~ msgstr "Logget ind korrekt"
+
+#~ msgid "Create a Firefox Account for %(serviceName)s"
+#~ msgstr "Opret en Firefox-konto til %(serviceName)s"
+
+#~ msgid "Change Password"
+#~ msgstr "Skift adgangskode"
+
+#~ msgid "Invalid authentication token in request signature"
+#~ msgstr "Ugyldig godkendelses-token i request signature"
+
+#~ msgid "No token specified"
+#~ msgstr "Ingen token angivet"
+
+#~ msgid "No code specified"
+#~ msgstr "Ingen kode angivet"
+
+#~ msgid "No email specified"
+#~ msgstr "Ingen mailadresse angivet"
+
+#~ msgid "No uid specified"
+#~ msgstr "Ingen uid angivet"
+
+#~ msgid "Service unavailable"
+#~ msgstr "Service ikke tilgængelig"
+
+#~ msgid "Completing sign up"
+#~ msgstr "Færdiggør tilmelding"
+
+#~ msgid "Client has sent too many requests"
+#~ msgstr "Klienten har sendt for mange requests"
+
+#~ msgid "Delete Account"
+#~ msgstr "Slet konto"

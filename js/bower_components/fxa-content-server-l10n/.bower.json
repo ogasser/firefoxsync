@@ -1,0 +1,13 @@
+{
+  "name": "fxa-content-server-l10n",
+  "homepage": "https://github.com/mozilla/fxa-content-server-l10n",
+  "_release": "8c16f4f1ca",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "8c16f4f1ca9b751ea6780c9ffa4e475a5094f839"
+  },
+  "_source": "https://github.com/mozilla/fxa-content-server-l10n.git",
+  "_target": "*",
+  "_originalSource": "https://github.com/mozilla/fxa-content-server-l10n.git"
+}

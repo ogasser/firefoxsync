@@ -1,0 +1,13 @@
+{
+  "name": "tos-pp",
+  "homepage": "https://github.com/mozilla/legal-docs",
+  "_release": "6a84a93767",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "6a84a93767618527efd775dc4caed9ecf91c31cc"
+  },
+  "_source": "https://github.com/mozilla/legal-docs.git",
+  "_target": "*",
+  "_originalSource": "https://github.com/mozilla/legal-docs.git"
+}

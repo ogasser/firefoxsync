@@ -1,0 +1,163 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-08-19 20:39+0000\n"
+"PO-Revision-Date: 2014-05-11 15:40+0000\n"
+"Last-Translator: Gion-Andri <gion-andri@gmx.ch>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: rm\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1) ;\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1399822814.0\n"
+
+#: server/templates/pages/src/404.html:1 server/templates/pages/src/500.html:1
+#: server/templates/pages/src/503.html:1
+#: server/templates/pages/src/index.html:1
+#: server/templates/pages/src/privacy.html:1
+#: server/templates/pages/src/terms.html:1 server/templates/email/reset.html:1
+#: server/templates/email/verify.html:1
+msgid "Firefox Accounts"
+msgstr "Contos da Firefox"
+
+#: server/templates/pages/src/404.html:2
+msgid "Page not found"
+msgstr "Betg chattà la pagina"
+
+#: server/templates/pages/src/404.html:3
+msgid ""
+"The page you requested is not found. We've been notified and will fix any "
+"links that may be broken."
+msgstr ""
+"La pagina che ti has dumandà n'è betg vegnida chattada. Nus avain retschavì "
+"in messadi ed empruvain da curreger eventualas colliaziuns faussas."
+
+#: server/templates/pages/src/404.html:4 server/templates/pages/src/500.html:4
+#: server/templates/pages/src/503.html:4
+#: server/templates/pages/src/privacy.html:6
+#: server/templates/pages/src/terms.html:6
+msgid "Home"
+msgstr "Chasa"
+
+#: server/templates/pages/src/500.html:2
+msgid "System unavailable, try again soon"
+msgstr "Il sistem n'è betg disponibel, emprova bainprest anc ina giada"
+
+#: server/templates/pages/src/500.html:3
+msgid ""
+"We are currently performing some maintenance on the system, and will return "
+"momentarily."
+msgstr ""
+"Nus exequin gist lavurs da mantegniment sin il sistem ed essan bainprest "
+"puspè online."
+
+#: server/templates/pages/src/503.html:2
+msgid "Server busy, try again soon"
+msgstr "Il server è surchargià, emprova bainprest anc ina giada"
+
+#: server/templates/pages/src/503.html:3
+msgid ""
+"We are currently under heavy strain and are working to return the system to "
+"normal as soon as possible."
+msgstr ""
+"Actualmain è il sistem surchargià. Nus lavurain londervi ch'il sistem "
+"stettia bainprest puspè a disposiziun sco usità."
+
+#: server/templates/pages/src/index.html:2
+#: server/templates/pages/src/privacy.html:3
+#: server/templates/pages/src/terms.html:3
+msgid ""
+"You are using an <strong>outdated</strong> browser. Please <a href=\"http://"
+"browsehappy.com/\">upgrade your browser</a> to improve your experience."
+msgstr ""
+"Ti utiliseschas in navigatur <strong>antiquà</strong>. <a href=\"http://"
+"browsehappy.com/\">Actualisescha tes navigatur</a> per retschaiver dapli "
+"segirezza."
+
+#: server/templates/pages/src/index.html:3
+msgid "Firefox Accounts requires JavaScript."
+msgstr "Ils contos da Firefox basegnan JavaScript."
+
+#: server/templates/pages/src/privacy.html:2
+#: server/templates/pages/src/privacy.html:5
+msgid "Privacy Notice"
+msgstr "Decleraziun da protecziun da datas"
+
+#: server/templates/pages/src/privacy.html:4
+#: server/templates/pages/src/terms.html:4
+msgid "Firefox cloud services"
+msgstr "Servetschs cloud da Firefox"
+
+#: server/templates/pages/src/terms.html:2
+#: server/templates/pages/src/terms.html:5
+msgid "Terms of Service"
+msgstr "Cundiziuns dal servetsch"
+
+#: server/templates/email/reset.html:2 server/templates/email/reset.txt:1
+msgid "Are you sure?"
+msgstr "Es ti segir?"
+
+#: server/templates/email/reset.html:3 server/templates/email/reset.txt:2
+msgid "Please confirm that you'd like to reset the password for %(email)s."
+msgstr "Conferma p.pl. che ti vuls redefinir il pled-clav per %(email)s."
+
+#: server/templates/email/reset.html:4
+msgid "Reset password"
+msgstr "Redefinir il pled-clav"
+
+#: server/templates/email/reset.html:5 server/templates/email/reset.txt:4
+#: server/templates/email/verify.html:5 server/templates/email/verify.txt:4
+msgid ""
+"This is an automated email; if you received it in error, no action is "
+"required."
+msgstr ""
+"Quai è in e-mail automatic. Sche ti has retschavì per sbagl quest e-mail na "
+"stos ti far nagut."
+
+#: server/templates/email/reset.html:6 server/templates/email/verify.html:6
+msgid ""
+"For more information, please visit <a href='https://support.mozilla."
+"org'>Mozilla Support</a>"
+msgstr ""
+"Visita il <a href='https://support.mozilla.org'>Support da Mozilla</a> per "
+"ulteriuras infurmaziuns."
+
+#: server/templates/email/reset.txt:3
+msgid "Reset password:"
+msgstr "Redefinir il pled-clav:"
+
+#: server/templates/email/reset.txt:5 server/templates/email/verify.txt:5
+msgid "For more information, please visit https://support.mozilla.org"
+msgstr "Per dapli infurmaziuns: https://support.mozilla.org"
+
+#: server/templates/email/verify.html:2 server/templates/email/verify.txt:1
+msgid "Congratulations!"
+msgstr "Gratulaziun!"
+
+#: server/templates/email/verify.html:3 server/templates/email/verify.txt:2
+msgid "%(email)s, you're one click away from verifying your Firefox Account."
+msgstr ""
+"%(email)s, i cuzza be pli intginas secundas per verifitgar tes conto da "
+"Firefox."
+
+#: server/templates/email/verify.html:4
+msgid "Verify"
+msgstr "Verifitgar"
+
+#: server/templates/email/verify.txt:3
+msgid "Verify:"
+msgstr "Verifitgar:"
+
+#: server/lib/templates.js:63
+msgid "Verify your account"
+msgstr "Verifitgar tes conto"
+
+#: server/lib/templates.js:68
+msgid "Reset your password"
+msgstr "Redefinir tes pled-clav"
+
+#~ msgid "Reset Password Request"
+#~ msgstr "Dumona per redefinir il pled-clav"

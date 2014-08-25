@@ -1,0 +1,14 @@
+{
+  "name": "fxa-js-client",
+  "homepage": "https://github.com/mozilla/fxa-js-client",
+  "version": "0.1.23",
+  "_release": "0.1.23",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.1.23",
+    "commit": "64b0f8f59cfb9d0607137d9504b12f2c7af9aa04"
+  },
+  "_source": "https://github.com/mozilla/fxa-js-client.git",
+  "_target": "0.1.23",
+  "_originalSource": "https://github.com/mozilla/fxa-js-client.git"
+}

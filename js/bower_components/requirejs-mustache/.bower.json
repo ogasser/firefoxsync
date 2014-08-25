@@ -1,0 +1,12 @@
+{
+  "name": "requirejs-mustache",
+  "homepage": "https://github.com/jfparadis/requirejs-mustache",
+  "_release": "5fb8c0a3e8",
+  "_resolution": {
+    "type": "commit",
+    "commit": "5fb8c0a3e8560526e8f9617a689e2924a8532d0a"
+  },
+  "_source": "https://github.com/jfparadis/requirejs-mustache.git",
+  "_target": "5fb8c0a3e8560526e8f9617a689e2924a8532d0a",
+  "_originalSource": "https://github.com/jfparadis/requirejs-mustache.git"
+}

@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<info>
+    <id>firefoxsync</id>
+    <name>Firefox Sync</name>
+    <description></description>
+    <licence>agpl</licence>
+    <author>Oliver Gasser</author>
+    <version>0.0.3</version>
+    <require>6.0.3</require>
+</info>

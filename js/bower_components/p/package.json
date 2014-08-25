@@ -1,0 +1,34 @@
+{
+  "name": "p-promise",
+  "version": "0.3.2",
+  "description": "A simple Promises/A+ library.",
+  "author": "Robert Katić <robert.katic@gmail.com> (https://github.com/rkatic)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/rkatic/p.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rkatic/p/issues"
+  },
+  "main": "p.js",
+  "scripts": {
+    "posttest": "uglifyjs p.js -o p.min.js -m",
+    "test-own": "mocha -R spec -s 100 test/test.js",
+    "test-aplus": "promises-aplus-tests test/adapter",
+    "test": "promises-aplus-tests test/adapter --reporter dot && mocha -s 200 test/test.js"
+  },
+  "keywords": [
+    "promise",
+    "promises",
+    "promises-aplus",
+    "browser",
+    "node"
+  ],
+  "devDependencies": {
+    "mocha": "1.x.x",
+    "expect.js" : "0.3.x",
+    "promises-aplus-tests": "~2",
+    "uglify-js": "~2"
+  }
+}

@@ -1,0 +1,157 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-08-19 20:39+0000\n"
+"PO-Revision-Date: 2014-03-13 13:05+0000\n"
+"Last-Translator: Tomer <tomer@gmx.net>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: he\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1394715909.0\n"
+
+#: server/templates/pages/src/404.html:1 server/templates/pages/src/500.html:1
+#: server/templates/pages/src/503.html:1
+#: server/templates/pages/src/index.html:1
+#: server/templates/pages/src/privacy.html:1
+#: server/templates/pages/src/terms.html:1 server/templates/email/reset.html:1
+#: server/templates/email/verify.html:1
+msgid "Firefox Accounts"
+msgstr "Firefox Accounts"
+
+#: server/templates/pages/src/404.html:2
+msgid "Page not found"
+msgstr "עמוד לא נמצא"
+
+#: server/templates/pages/src/404.html:3
+msgid ""
+"The page you requested is not found. We've been notified and will fix any "
+"links that may be broken."
+msgstr ""
+"העמוד המבוקש לא נמצא. קיבלנו את המידע הדרוש ונתקן את הקישורים שייתכן שנשברו."
+
+#: server/templates/pages/src/404.html:4 server/templates/pages/src/500.html:4
+#: server/templates/pages/src/503.html:4
+#: server/templates/pages/src/privacy.html:6
+#: server/templates/pages/src/terms.html:6
+msgid "Home"
+msgstr "בית"
+
+#: server/templates/pages/src/500.html:2
+msgid "System unavailable, try again soon"
+msgstr ""
+
+#: server/templates/pages/src/500.html:3
+msgid ""
+"We are currently performing some maintenance on the system, and will return "
+"momentarily."
+msgstr ""
+
+#: server/templates/pages/src/503.html:2
+msgid "Server busy, try again soon"
+msgstr ""
+
+#: server/templates/pages/src/503.html:3
+msgid ""
+"We are currently under heavy strain and are working to return the system to "
+"normal as soon as possible."
+msgstr ""
+
+#: server/templates/pages/src/index.html:2
+#: server/templates/pages/src/privacy.html:3
+#: server/templates/pages/src/terms.html:3
+msgid ""
+"You are using an <strong>outdated</strong> browser. Please <a href=\"http://"
+"browsehappy.com/\">upgrade your browser</a> to improve your experience."
+msgstr ""
+
+#: server/templates/pages/src/index.html:3
+msgid "Firefox Accounts requires JavaScript."
+msgstr "Firefox Accounts דורש JavaScript."
+
+#: server/templates/pages/src/privacy.html:2
+#: server/templates/pages/src/privacy.html:5
+msgid "Privacy Notice"
+msgstr ""
+
+#: server/templates/pages/src/privacy.html:4
+#: server/templates/pages/src/terms.html:4
+#, fuzzy
+msgid "Firefox cloud services"
+msgstr "Firefox Accounts"
+
+#: server/templates/pages/src/terms.html:2
+#: server/templates/pages/src/terms.html:5
+msgid "Terms of Service"
+msgstr ""
+
+#: server/templates/email/reset.html:2 server/templates/email/reset.txt:1
+msgid "Are you sure?"
+msgstr ""
+
+#: server/templates/email/reset.html:3 server/templates/email/reset.txt:2
+#, fuzzy
+msgid "Please confirm that you'd like to reset the password for %(email)s."
+msgstr "התקבלה בקשה לאפס ססמה עבור %(email)s."
+
+#: server/templates/email/reset.html:4
+msgid "Reset password"
+msgstr "איפוס ססמה"
+
+#: server/templates/email/reset.html:5 server/templates/email/reset.txt:4
+#: server/templates/email/verify.html:5 server/templates/email/verify.txt:4
+#, fuzzy
+msgid ""
+"This is an automated email; if you received it in error, no action is "
+"required."
+msgstr "אם הודעה זו הגיעה אליך בטעות, אין צורך בשום פעולה מצידך. "
+
+#: server/templates/email/reset.html:6 server/templates/email/verify.html:6
+msgid ""
+"For more information, please visit <a href='https://support.mozilla."
+"org'>Mozilla Support</a>"
+msgstr ""
+
+#: server/templates/email/reset.txt:3
+msgid "Reset password:"
+msgstr "איפוס ססמה:"
+
+#: server/templates/email/reset.txt:5 server/templates/email/verify.txt:5
+msgid "For more information, please visit https://support.mozilla.org"
+msgstr ""
+
+#: server/templates/email/verify.html:2 server/templates/email/verify.txt:1
+msgid "Congratulations!"
+msgstr ""
+
+#: server/templates/email/verify.html:3 server/templates/email/verify.txt:2
+#, fuzzy
+msgid "%(email)s, you're one click away from verifying your Firefox Account."
+msgstr ""
+"ברכותינו! %(email)s, הנך במרחק של שניות ספורות מאימות החשבון שלך ב־Firefox "
+"Account."
+
+#: server/templates/email/verify.html:4
+msgid "Verify"
+msgstr "אימות"
+
+#: server/templates/email/verify.txt:3
+msgid "Verify:"
+msgstr "אימות:"
+
+#: server/lib/templates.js:63
+#, fuzzy
+msgid "Verify your account"
+msgstr "אימות החשבון שלך"
+
+#: server/lib/templates.js:68
+#, fuzzy
+msgid "Reset your password"
+msgstr "איפוס ססמה"
+
+#~ msgid "Reset Password Request"
+#~ msgstr "בקשה לאיפוס ססמה"

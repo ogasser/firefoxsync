@@ -1,0 +1,761 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-08-19 20:39+0000\n"
+"PO-Revision-Date: 2014-08-23 15:32+0000\n"
+"Last-Translator: Sander <sander.lepik@eesti.ee>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: et\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1408807930.0\n"
+
+#: app/scripts/templates/sign_up.mustache:15
+msgid "1991"
+msgstr "1991"
+
+#: app/scripts/templates/sign_up.mustache:16
+msgid "1992"
+msgstr "1992"
+
+#: app/scripts/templates/sign_up.mustache:17
+msgid "1993"
+msgstr "1993"
+
+#: app/scripts/templates/sign_up.mustache:18
+msgid "1994"
+msgstr "1994"
+
+#: app/scripts/templates/sign_up.mustache:19
+msgid "1995"
+msgstr "1995"
+
+#: app/scripts/templates/sign_up.mustache:20
+msgid "1996"
+msgstr "1996"
+
+#: app/scripts/templates/sign_up.mustache:21
+msgid "1997"
+msgstr "1997"
+
+#: app/scripts/templates/sign_up.mustache:22
+msgid "1998"
+msgstr "1998"
+
+#: app/scripts/templates/sign_up.mustache:23
+msgid "1999"
+msgstr "1999"
+
+#: app/scripts/templates/sign_up.mustache:24
+msgid "2000"
+msgstr "2000"
+
+#: app/scripts/templates/sign_up.mustache:25
+msgid "2001"
+msgstr "2001"
+
+#: app/scripts/templates/sign_up.mustache:26
+msgid "2002"
+msgstr "2002"
+
+#: app/scripts/templates/sign_up.mustache:27
+msgid "2003"
+msgstr "2003"
+
+#: app/scripts/templates/sign_up.mustache:28
+msgid "2004"
+msgstr "2004"
+
+#: app/scripts/templates/sign_up.mustache:29
+msgid "2005"
+msgstr "2005"
+
+#: app/scripts/templates/sign_up.mustache:30
+msgid "2006"
+msgstr "2006"
+
+#: app/scripts/templates/sign_up.mustache:31
+msgid "2007"
+msgstr "2007"
+
+#: app/scripts/views/base.js:531
+msgid "missing search parameter: %(itemName)s"
+msgstr "puuduv otsingu parameeter: %(itemName)s"
+
+#: app/scripts/views/change_password.js:67
+msgid "Password changed"
+msgstr "Parool on muudetud"
+
+#: app/scripts/views/change_password.js:71
+msgid ""
+"Unverified account. <a href=\"#\" id=\"resend\">Resend verification email</"
+"a>."
+msgstr ""
+"Kinnitamata konto. <a href=\"#\" id=\"resend\">Saada kinnitamise e-kiri "
+"uuesti</a>."
+
+#: app/scripts/views/confirm_reset_password.js:68
+msgid "Password reset. Sign in to continue."
+msgstr "Parool lähtestatud. Jätkamiseks logi sisse."
+
+#: app/scripts/views/delete_account.js:46
+msgid "Account deleted successfully"
+msgstr "Konto on edukalt kustutatud"
+
+#: app/scripts/views/force_auth.js:44
+msgid "/force_auth requires an email"
+msgstr "/force_auth nõuab e-posti aadressi"
+
+#: app/scripts/views/reset_password.js:76 app/scripts/views/sign_in.js:127
+msgid "Unknown account. <a href=\"/signup\">Sign up</a>"
+msgstr "Tundmatu konto. <a href=\"/signup\">Registreeru</a>"
+
+#: app/scripts/views/settings.js:42
+msgid "Signed out"
+msgstr "Välja logitud"
+
+#: app/scripts/views/sign_up.js:214
+msgid "Account already exists. <a href=\"/signin\">Sign in</a>"
+msgstr "Konto on juba olemas. <a href=\"/signin\">Logi sisse</a>"
+
+#: app/scripts/views/settings/avatar_gravatar.js:58
+msgid "No Gravatar found"
+msgstr "Gravatari ei leitud"
+
+#: app/scripts/views/settings/avatar_gravatar.js:78
+msgid "Courtesy of <a href=\"https://www.gravatar.com\">Gravatar</a>"
+msgstr "<a href=\"https://www.gravatar.com\">Gravatari</a> kaudu"
+
+#: app/scripts/lib/auth-errors.js:59 app/scripts/lib/oauth-errors.js:41
+#: app/scripts/lib/profile-client.js:76 app/scripts/lib/profile-client.js:80
+#: app/scripts/templates/unexpected_error.mustache:1
+msgid "Unexpected error"
+msgstr "Ootamatu viga"
+
+#: app/scripts/lib/auth-errors.js:60
+msgid "Invalid token"
+msgstr "Vigane turvatõend"
+
+#: app/scripts/lib/auth-errors.js:61
+msgid "Invalid timestamp in request signature"
+msgstr "Vigane ajatempel päringu signatuuris"
+
+#: app/scripts/lib/auth-errors.js:62
+msgid "Invalid nonce in request signature"
+msgstr "Vigane nonss päringu signatuuris"
+
+#: app/scripts/lib/auth-errors.js:63 app/scripts/lib/strings.js:25
+msgid "Account already exists"
+msgstr "Konto on juba olemas"
+
+#: app/scripts/lib/auth-errors.js:64
+msgid "Unknown account"
+msgstr "Tundmatu konto"
+
+#: app/scripts/lib/auth-errors.js:65
+msgid "Incorrect email case"
+msgstr "Vigane e-posti aadress"
+
+#: app/scripts/lib/auth-errors.js:66
+msgid "Incorrect password"
+msgstr "Vigane parool"
+
+#: app/scripts/lib/auth-errors.js:67
+msgid "Unverified account"
+msgstr "Kinnitamata konto"
+
+#: app/scripts/lib/auth-errors.js:68
+msgid "Invalid verification code"
+msgstr "Vigane kinnituskood"
+
+#: app/scripts/lib/auth-errors.js:69
+msgid "Invalid JSON in request body"
+msgstr "Vigane JSON päringu kehas"
+
+#: app/scripts/lib/auth-errors.js:70 app/scripts/lib/oauth-errors.js:36
+#: app/scripts/lib/profile-client.js:77
+msgid "Invalid parameter in request body: %(param)s"
+msgstr "Vigane parameeter päringu kehas: %(param)s"
+
+#: app/scripts/lib/auth-errors.js:71
+msgid "Missing parameter in request body: %(param)s"
+msgstr "Puuduv parameeter päringu kehas: %(param)s"
+
+#: app/scripts/lib/auth-errors.js:72 app/scripts/lib/oauth-errors.js:37
+msgid "Invalid request signature"
+msgstr "Vigane päringu signatuur"
+
+#: app/scripts/lib/auth-errors.js:73
+msgid "Missing content-length header"
+msgstr "Puudub päis content-length"
+
+#: app/scripts/lib/auth-errors.js:74
+msgid "Request body too large"
+msgstr "Päringu keha liiga suur"
+
+#: app/scripts/lib/auth-errors.js:75
+msgid "Attempt limit exceeded"
+msgstr "Katsete limiit ületatud."
+
+#: app/scripts/lib/auth-errors.js:76
+msgid "Server busy, try again soon"
+msgstr "Server on hõivatud, proovi mõne aja pärast uuesti"
+
+#: app/scripts/lib/auth-errors.js:77
+msgid "This endpoint is no longer supported"
+msgstr "See lõpppunkt pole enam toetatud"
+
+#: app/scripts/lib/auth-errors.js:80 app/scripts/lib/oauth-errors.js:40
+#: app/scripts/lib/profile-client.js:79
+msgid "System unavailable, try again soon"
+msgstr "Süsteem pole kättesaadav, proovi mõne aja pärast uuesti"
+
+#: app/scripts/lib/auth-errors.js:81
+msgid "Session expired. Sign in to continue."
+msgstr "Seanss aegus. Jätkamiseks logi sisse."
+
+#: app/scripts/lib/auth-errors.js:82
+msgid "Cookies are still disabled"
+msgstr "Küpsised on endiselt keelatud"
+
+#: app/scripts/lib/auth-errors.js:83
+msgid "Passwords do not match"
+msgstr "Paroolid ei ühti"
+
+#: app/scripts/lib/auth-errors.js:84
+msgid "Working…"
+msgstr "Töötlemine…"
+
+#: app/scripts/lib/auth-errors.js:85
+msgid "Could not get Privacy Notice"
+msgstr "Privaatsusreeglite hankimine ebaõnnestus"
+
+#: app/scripts/lib/auth-errors.js:86
+msgid "Could not get Terms of Service"
+msgstr "Teenuste tingimuste hankimine ebaõnnestus"
+
+#: app/scripts/lib/auth-errors.js:87
+msgid "Your new password must be different"
+msgstr "Vana ja uus parool peavad erinema"
+
+#: app/scripts/lib/auth-errors.js:88 app/scripts/lib/strings.js:23
+#: app/scripts/templates/change_password.mustache:7
+#: app/scripts/templates/complete_reset_password.mustache:14
+#: app/scripts/templates/sign_up.mustache:11
+msgid "Must be at least 8 characters"
+msgstr "Peab olema vähemalt 8 tähemärgi pikkune"
+
+#: app/scripts/lib/auth-errors.js:89 app/scripts/lib/strings.js:19
+msgid "Valid password required"
+msgstr "Parool peab olema korrektne"
+
+#: app/scripts/lib/auth-errors.js:90 app/scripts/lib/strings.js:18
+msgid "Valid email required"
+msgstr "E-posti aadress peab olema korrektne"
+
+#: app/scripts/lib/auth-errors.js:91 app/scripts/lib/strings.js:24
+msgid "Year of birth required"
+msgstr "Sünniaasta on nõutud"
+
+#: app/scripts/lib/auth-errors.js:92
+msgid "A usable image was not found"
+msgstr "Kasutatavat pilti ei leitud"
+
+#: app/scripts/lib/auth-errors.js:93
+msgid "Could not initialize camera"
+msgstr "Kaamera kasutamine polnud võimalik"
+
+#: app/scripts/lib/auth-errors.js:94
+msgid "Valid URL required"
+msgstr "URL peab olema korrektne"
+
+#: app/scripts/lib/oauth-errors.js:33
+msgid "Unknown client"
+msgstr "Tundmatu klient"
+
+#: app/scripts/lib/oauth-errors.js:34
+msgid "Incorrect redirect_uri"
+msgstr "Vigane redirect_uri"
+
+#: app/scripts/lib/oauth-errors.js:35
+msgid "Invalid assertion"
+msgstr "Vigane tõend"
+
+#: app/scripts/lib/oauth-errors.js:42
+msgid "Something went wrong. Please close this tab and try again."
+msgstr "Midagi läks valesti. Palun sulge see kaart ja proovi uuesti."
+
+#: app/scripts/lib/service-name.js:16
+msgid "Firefox Sync"
+msgstr "Firefox Sync"
+
+#: app/scripts/lib/strings.js:20
+msgid "Invalid password"
+msgstr "Vigane parool"
+
+#: app/scripts/lib/strings.js:21
+msgid "Invalid email and password"
+msgstr "Vigane e-posti aadress ja parool"
+
+#: app/scripts/lib/strings.js:22
+msgid "Invalid email or password"
+msgstr "Vigane e-posti aadress või parool"
+
+#: app/scripts/lib/strings.js:26
+msgid "Old password invalid"
+msgstr "Vana parool on vigane"
+
+#: app/scripts/lib/strings.js:27
+msgid "New password invalid"
+msgstr "Uus parool on vigane"
+
+#: app/scripts/lib/strings.js:28
+msgid "Passwords don't match"
+msgstr "Paroolid ei ühti"
+
+#: app/scripts/lib/strings.js:29
+msgid "Please enter an email"
+msgstr "Palun sisesta e-posti aadress"
+
+#: app/scripts/lib/strings.js:30
+msgid "Cannot connect to the internet"
+msgstr "Pole võimalik internetti ühenduda"
+
+#: app/scripts/lib/strings.js:34
+msgid "Subscribe to Firefox news and tips"
+msgstr "Telli Firefoxi uudised ja näpunäited"
+
+#: app/scripts/templates/cannot_create_account.mustache:1
+msgid "Cannot create account"
+msgstr "Konto loomine pole võimalik"
+
+#: app/scripts/templates/cannot_create_account.mustache:2
+msgid ""
+"You must meet certain age requirements to create a Firefox&nbsp;Account."
+msgstr "Firefoxi&nbsp;konto loomiseks pead olema teatud vanuses."
+
+#: app/scripts/templates/cannot_create_account.mustache:3
+msgid "Learn more."
+msgstr "Rohkem teavet."
+
+#: app/scripts/templates/change_password.mustache:1
+#: app/scripts/templates/settings.mustache:5
+msgid "Change password"
+msgstr "Muuda parool"
+
+#: app/scripts/templates/change_password.mustache:2
+msgid ""
+"Once you're ﬁnished, use your new password to sign in on all of your devices."
+msgstr ""
+"Kui oled lõpetanud, siis kasuta oma uut parooli, et logida sisse kõigis oma "
+"seadmetes."
+
+#: app/scripts/templates/change_password.mustache:3
+msgid "Old password"
+msgstr "Vana parool"
+
+#: app/scripts/templates/change_password.mustache:4
+#: app/scripts/templates/change_password.mustache:6
+#: app/scripts/templates/complete_reset_password.mustache:11
+#: app/scripts/templates/complete_reset_password.mustache:13
+#: app/scripts/templates/delete_account.mustache:4
+#: app/scripts/templates/force_auth.mustache:5
+#: app/scripts/templates/sign_in.mustache:9
+#: app/scripts/templates/sign_up.mustache:10
+msgid "Show"
+msgstr "Kuva"
+
+#: app/scripts/templates/change_password.mustache:5
+#: app/scripts/templates/complete_reset_password.mustache:10
+msgid "New password"
+msgstr "Uus parool"
+
+#: app/scripts/templates/change_password.mustache:8
+msgid "Confirm"
+msgstr "Kinnita"
+
+#: app/scripts/templates/change_password.mustache:9
+#: app/scripts/templates/delete_account.mustache:6
+#: app/scripts/templates/pp.mustache:3
+#: app/scripts/templates/reset_password.mustache:6
+#: app/scripts/templates/tos.mustache:3
+msgid "Back"
+msgstr "Tagasi"
+
+#: app/scripts/templates/complete_reset_password.mustache:1
+msgid "Reset password link expired"
+msgstr "Parooli lähtestamise link aegus"
+
+#: app/scripts/templates/complete_reset_password.mustache:2
+#: app/scripts/templates/complete_sign_up.mustache:2
+#: app/scripts/templates/confirm.mustache:2
+#: app/scripts/templates/confirm_reset_password.mustache:2
+msgid "Email resent"
+msgstr "E-kiri on uuesti saadetud"
+
+#: app/scripts/templates/complete_reset_password.mustache:3
+msgid "The link you clicked to reset your password is expired."
+msgstr "Link, millel klõpsasid parooli lähtestamiseks, on aegunud."
+
+#: app/scripts/templates/complete_reset_password.mustache:4
+msgid "Click here to receive a new reset link"
+msgstr "Uue lähtestamise lingi saamiseks klõpsa siia"
+
+#: app/scripts/templates/complete_reset_password.mustache:6
+msgid "Reset password link damaged"
+msgstr "Parooli lähtestamise link on vigane"
+
+#: app/scripts/templates/complete_reset_password.mustache:7
+#: app/scripts/templates/complete_sign_up.mustache:8
+msgid ""
+"The link you clicked was missing characters, and may have been broken by "
+"your email client. Copy the address carefully, and try again."
+msgstr ""
+"Kasutatud lingis olid osad tähemärgid puudu (põhjuseks võib olla e-posti "
+"klient, mis tegi lingi katki). Kopeeri aadress hoolikalt ja proovi uuesti."
+
+#: app/scripts/templates/complete_reset_password.mustache:9
+#: app/scripts/templates/reset_password.mustache:1
+msgid "Reset password"
+msgstr "Parooli lähtestamine"
+
+#: app/scripts/templates/complete_reset_password.mustache:12
+msgid "Repeat password"
+msgstr "Korda parooli"
+
+#: app/scripts/templates/complete_reset_password.mustache:15
+#: app/scripts/templates/reset_password.mustache:5
+#: app/scripts/templates/sign_up.mustache:33
+#: app/scripts/templates/settings/avatar_url.mustache:5
+msgid "Next"
+msgstr "Edasi"
+
+#: app/scripts/templates/complete_sign_up.mustache:1
+msgid "Verification link expired"
+msgstr "Kinnitamise link aegus"
+
+#: app/scripts/templates/complete_sign_up.mustache:3
+msgid "The link you clicked to verify your email is expired."
+msgstr "Link, millel klõpsasid oma e-posti aadressi kinnitamiseks, on aegunud."
+
+#: app/scripts/templates/complete_sign_up.mustache:4
+msgid "Click here to receive a new verification link"
+msgstr "Uue kinnitamise lingi saamiseks klõpsa siia"
+
+#: app/scripts/templates/complete_sign_up.mustache:7
+msgid "Verification link damaged"
+msgstr "Kinnitamise link on vigane"
+
+#: app/scripts/templates/complete_sign_up.mustache:10
+msgid "Verification error"
+msgstr "Viga kinnitamisel"
+
+#: app/scripts/templates/confirm.mustache:1
+msgid "Confirm your account"
+msgstr "Konto kinnitamine"
+
+#: app/scripts/templates/confirm.mustache:3
+#: app/scripts/templates/confirm_reset_password.mustache:3
+msgid "Email Sent"
+msgstr "E-kiri on saadetud"
+
+#: app/scripts/templates/confirm.mustache:4
+msgid "A verification link has been sent&nbsp;to %(email)s"
+msgstr "Kinnitamise link on saadetud aadressile %(email)s"
+
+#: app/scripts/templates/confirm.mustache:5
+#: app/scripts/templates/confirm_reset_password.mustache:8
+msgid "Resend email"
+msgstr "Saada e-kiri uuesti"
+
+#: app/scripts/templates/confirm_reset_password.mustache:1
+msgid "Reset email sent"
+msgstr "Lähtestamise e-kiri on saadetud"
+
+#: app/scripts/templates/confirm_reset_password.mustache:4
+msgid "A reset link has been sent to %(email)s"
+msgstr "Lähtestamise link saadeti aadressile %(email)s"
+
+#: app/scripts/templates/confirm_reset_password.mustache:5
+#: app/scripts/templates/confirm_reset_password.mustache:7
+#: app/scripts/templates/force_auth.mustache:6
+#: app/scripts/templates/sign_in.mustache:1
+#: app/scripts/templates/sign_in.mustache:4
+#: app/scripts/templates/sign_in.mustache:10
+msgid "Sign in"
+msgstr "Logi sisse"
+
+#: app/scripts/templates/cookies_disabled.mustache:1
+msgid "Cookies required"
+msgstr "Küpsised on nõutud"
+
+#: app/scripts/templates/cookies_disabled.mustache:2
+msgid ""
+"Please enable cookies in your browser which are required by Firefox "
+"Accounts. Cookies are small pieces of data stored in your browser that "
+"provide functionality such as remembering you between sessions."
+msgstr ""
+"Palun luba oma brauseris küpsised, sest Firefoxi kontod nõuavad neid. "
+"Küpsised hoiavad väikseid koguseid andmeid sinu brauseris ning võimaldavad "
+"näiteks pidada sind meeles erinevate külastuste vahel."
+
+#: app/scripts/templates/cookies_disabled.mustache:3
+msgid "Learn more"
+msgstr "Rohkem teavet"
+
+#: app/scripts/templates/cookies_disabled.mustache:4
+msgid "Try again"
+msgstr "Proovi uuesti"
+
+#: app/scripts/templates/delete_account.mustache:1
+#: app/scripts/templates/delete_account.mustache:5
+#: app/scripts/templates/settings.mustache:6
+msgid "Delete account"
+msgstr "Kustuta konto"
+
+#: app/scripts/templates/delete_account.mustache:2
+msgid ""
+"Are you sure you want to delete your account? This action cannot be undone."
+msgstr ""
+"Kas oled kindel, et soovid konto kustutada? Seda tegevust ei saa tagasi "
+"võtta."
+
+#: app/scripts/templates/delete_account.mustache:3
+#: app/scripts/templates/force_auth.mustache:3
+#: app/scripts/templates/sign_in.mustache:7
+#: app/scripts/templates/sign_up.mustache:8
+msgid "Password"
+msgstr "Parool"
+
+#: app/scripts/templates/force_auth.mustache:1
+msgid "Sign in to continue"
+msgstr "Jätkamiseks logi sisse"
+
+#: app/scripts/templates/force_auth.mustache:7
+#: app/scripts/templates/sign_in.mustache:11
+msgid "Forgot password?"
+msgstr "Unustasid parooli?"
+
+#: app/scripts/templates/force_auth.mustache:8
+#: app/scripts/templates/sign_in.mustache:13
+#: app/scripts/templates/sign_up.mustache:32
+msgid ""
+"By proceeding, I agree to the <a id=\"fxa-tos\" href=\"/legal/terms\">Terms "
+"of Service</a> and <a id=\"fxa-pp\" href=\"/legal/privacy\">Privacy Notice</"
+"a> of Firefox cloud services."
+msgstr ""
+"Jätkates nõustud sa Firefoxi pilveteenuste <a id=\"fxa-tos\" href=\"/legal/"
+"terms\">teenuste tingimuste</a> ja <a id=\"fxa-pp\" href=\"/legal/privacy"
+"\">privaatsusreeglitega</a>."
+
+#: app/scripts/templates/legal.mustache:1 app/scripts/templates/pp.mustache:1
+#: app/scripts/templates/tos.mustache:1
+msgid "Firefox cloud services"
+msgstr "Firefoxi pilveteenused"
+
+#: app/scripts/templates/legal.mustache:2
+msgid "Legal"
+msgstr "Õiguslik teave"
+
+#: app/scripts/templates/legal.mustache:3
+#: app/scripts/templates/settings.mustache:7
+#: app/scripts/templates/tos.mustache:2
+msgid "Terms of Service"
+msgstr "Teenuse tingimused"
+
+#: app/scripts/templates/legal.mustache:4 app/scripts/templates/pp.mustache:2
+#: app/scripts/templates/settings.mustache:8
+msgid "Privacy Notice"
+msgstr "Privaatsusreeglid"
+
+#: app/scripts/templates/marketing_snippet.mustache:1
+msgid "Stay in sync on the go:"
+msgstr "Püsi sünkroonis ka liikvel olles:"
+
+#: app/scripts/templates/marketing_snippet.mustache:2
+msgid "Get Firefox for Android"
+msgstr "Hangi Firefox Androidile"
+
+#: app/scripts/templates/ready.mustache:1
+msgid "Account verified"
+msgstr "Konto on kinnitatud"
+
+#: app/scripts/templates/ready.mustache:3
+msgid "Password reset"
+msgstr "Parool on lähtestatud"
+
+#: app/scripts/templates/ready.mustache:5
+msgid "Success"
+msgstr "Õnnestus"
+
+#: app/scripts/templates/ready.mustache:6
+msgid "You are now ready to use %(serviceName)s"
+msgstr "%(serviceName)s on kasutamiseks valmis."
+
+#: app/scripts/templates/ready.mustache:8
+msgid "Your account is ready!"
+msgstr "Sinu konto on valmis!"
+
+#: app/scripts/templates/reset_password.mustache:2
+msgid "Enter your email to reset&nbsp;the account password."
+msgstr "Konto parooli lähtestamiseks sisesta e-posti aadress."
+
+#: app/scripts/templates/reset_password.mustache:3
+#: app/scripts/templates/sign_in.mustache:6
+#: app/scripts/templates/sign_up.mustache:6
+msgid "Email"
+msgstr "E-post"
+
+#: app/scripts/templates/reset_password.mustache:4
+msgid ""
+"For security reasons, resetting your password will erase your Sync data from "
+"our servers. A new Sync backup will be created from your local browsing data."
+msgstr ""
+"Turvalisuse kaalutlustel kustutatakse parooli lähtestamisel sinu Synci "
+"andmed meie serveritest. Uus Synci varukoopia luuakse sinu kohalike andmete "
+"põhjal."
+
+#: app/scripts/templates/settings.mustache:1
+#: app/scripts/templates/settings/avatar.mustache:1
+#: app/scripts/templates/settings/avatar_camera.mustache:1
+#: app/scripts/templates/settings/avatar_change.mustache:1
+#: app/scripts/templates/settings/avatar_crop.mustache:1
+#: app/scripts/templates/settings/avatar_gravatar.mustache:1
+#: app/scripts/templates/settings/avatar_url.mustache:1
+msgid "Manage account"
+msgstr "Konto haldamine"
+
+#: app/scripts/templates/settings.mustache:2
+msgid "You are signed in as"
+msgstr "Oled sisselogitud kasutajana"
+
+#: app/scripts/templates/settings.mustache:3
+msgid "Sign out"
+msgstr "Logi välja"
+
+#: app/scripts/templates/sign_in.mustache:2
+#: app/scripts/templates/sign_up.mustache:2
+msgid "Continue to %(serviceName)s"
+msgstr "Logi %(serviceName)s teenusesse sisse"
+
+#: app/scripts/templates/sign_in.mustache:12
+msgid "Create an account"
+msgstr "Loo konto"
+
+#: app/scripts/templates/sign_up.mustache:1
+#: app/scripts/templates/sign_up.mustache:4
+msgid "Create a Firefox Account"
+msgstr "Firefoxi konto loomine"
+
+#: app/scripts/templates/sign_up.mustache:13
+msgid "Year of birth"
+msgstr "Sünniaasta"
+
+#: app/scripts/templates/sign_up.mustache:14
+msgid "1990 or earlier"
+msgstr "1990 või varem"
+
+#: app/scripts/templates/sign_up.mustache:34
+msgid "Choose what to sync"
+msgstr "Sünkroniseeritavate asjade valik"
+
+#: app/scripts/templates/sign_up.mustache:36
+msgid "Already have an account? Sign in."
+msgstr "Konto juba olemas? Logi sisse."
+
+#: app/scripts/templates/unexpected_error.mustache:2
+msgid "Home"
+msgstr "Avaleht"
+
+#: app/scripts/templates/settings/avatar.mustache:2
+#: app/scripts/templates/settings/avatar_camera.mustache:2
+#: app/scripts/templates/settings/avatar_change.mustache:2
+#: app/scripts/templates/settings/avatar_crop.mustache:2
+#: app/scripts/templates/settings/avatar_gravatar.mustache:2
+#: app/scripts/templates/settings/avatar_url.mustache:2
+msgid "Account picture"
+msgstr "Konto pilt"
+
+#: app/scripts/templates/settings/avatar.mustache:4
+msgid "Change"
+msgstr "Muuda"
+
+#: app/scripts/templates/settings/avatar_camera.mustache:4
+msgid "Take picture"
+msgstr "Pildista"
+
+#: app/scripts/templates/settings/avatar_camera.mustache:5
+#: app/scripts/templates/settings/avatar_crop.mustache:5
+#: app/scripts/templates/settings/avatar_gravatar.mustache:5
+#: app/scripts/templates/settings/avatar_url.mustache:6
+msgid "Cancel"
+msgstr "Loobu"
+
+#: app/scripts/templates/settings/avatar_change.mustache:4
+msgid "Upload"
+msgstr "Laadi üles"
+
+#: app/scripts/templates/settings/avatar_change.mustache:5
+msgid "URL"
+msgstr "URL"
+
+#: app/scripts/templates/settings/avatar_change.mustache:6
+msgid "Camera"
+msgstr "Kaamerast"
+
+#: app/scripts/templates/settings/avatar_change.mustache:7
+msgid "Gravatar"
+msgstr "Gravatar"
+
+#: app/scripts/templates/settings/avatar_crop.mustache:3
+msgid "Position and rotate your picture as needed"
+msgstr "Muuda asendit ja pööra pilti vastavalt vajadusele"
+
+#: app/scripts/templates/settings/avatar_crop.mustache:4
+#: app/scripts/templates/settings/avatar_gravatar.mustache:4
+msgid "Save"
+msgstr "Salvesta"
+
+#: app/scripts/templates/settings/avatar_url.mustache:4
+msgid "Paste image URL"
+msgstr "Aseta pildi URL"
+
+#~ msgid "Signed in successfully"
+#~ msgstr "Edukalt sisse logitud"
+
+#~ msgid "Create a Firefox Account for %(serviceName)s"
+#~ msgstr "Firefoxi konto loomine teenusele %(serviceName)s"
+
+#~ msgid "Change Password"
+#~ msgstr "Muuda parool"
+
+#~ msgid "Invalid authentication token in request signature"
+#~ msgstr "Vigane turvatõend päringu signatuuris"
+
+#~ msgid "No token specified"
+#~ msgstr "Juurdepääsutõendit pole määratud"
+
+#~ msgid "No code specified"
+#~ msgstr "Koodi pole määratud"
+
+#~ msgid "No email specified"
+#~ msgstr "E-posti aadressi pole määratud"
+
+#~ msgid "No uid specified"
+#~ msgstr "UID pole määratud"
+
+#~ msgid "Service unavailable"
+#~ msgstr "Teenus pole kättesaadav"
+
+#~ msgid "Completing sign up"
+#~ msgstr "Registreerumise lõpetamine"
+
+#~ msgid "Client has sent too many requests"
+#~ msgstr "Klient saatis liiga palju päringuid"
+
+#~ msgid "Delete Account"
+#~ msgstr "Kustuta konto"

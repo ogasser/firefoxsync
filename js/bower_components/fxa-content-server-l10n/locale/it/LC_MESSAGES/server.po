@@ -1,0 +1,163 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-08-19 20:39+0000\n"
+"PO-Revision-Date: 2014-05-04 11:31+0000\n"
+"Last-Translator: Sandro <gialloporpora@mozillaitalia.org>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1399203103.0\n"
+
+#: server/templates/pages/src/404.html:1 server/templates/pages/src/500.html:1
+#: server/templates/pages/src/503.html:1
+#: server/templates/pages/src/index.html:1
+#: server/templates/pages/src/privacy.html:1
+#: server/templates/pages/src/terms.html:1 server/templates/email/reset.html:1
+#: server/templates/email/verify.html:1
+msgid "Firefox Accounts"
+msgstr "Firefox Account"
+
+#: server/templates/pages/src/404.html:2
+msgid "Page not found"
+msgstr "Pagina non trovata"
+
+#: server/templates/pages/src/404.html:3
+msgid ""
+"The page you requested is not found. We've been notified and will fix any "
+"links that may be broken."
+msgstr ""
+"Non è stato possibile trovare la pagina che hai richiesto. Ci è pervenuta la "
+"segnalazione del problema e cercheremo di sistemare qualsiasi collegamento "
+"non funzionante."
+
+#: server/templates/pages/src/404.html:4 server/templates/pages/src/500.html:4
+#: server/templates/pages/src/503.html:4
+#: server/templates/pages/src/privacy.html:6
+#: server/templates/pages/src/terms.html:6
+msgid "Home"
+msgstr "Pagina principale"
+
+#: server/templates/pages/src/500.html:2
+msgid "System unavailable, try again soon"
+msgstr "Il sistema non è disponibile, riprova più tardi"
+
+#: server/templates/pages/src/500.html:3
+msgid ""
+"We are currently performing some maintenance on the system, and will return "
+"momentarily."
+msgstr ""
+"È in corso un intervento di manutenzione al sistema che sarà nuovamente "
+"disponibile a momenti."
+
+#: server/templates/pages/src/503.html:2
+msgid "Server busy, try again soon"
+msgstr "Il server è occupato, riprova più tardi"
+
+#: server/templates/pages/src/503.html:3
+msgid ""
+"We are currently under heavy strain and are working to return the system to "
+"normal as soon as possible."
+msgstr ""
+"Attualmente il sistema è sottoposto a un forte carico e stiamo lavorando per "
+"riportarlo alla normalità il più presto possibile."
+
+#: server/templates/pages/src/index.html:2
+#: server/templates/pages/src/privacy.html:3
+#: server/templates/pages/src/terms.html:3
+msgid ""
+"You are using an <strong>outdated</strong> browser. Please <a href=\"http://"
+"browsehappy.com/\">upgrade your browser</a> to improve your experience."
+msgstr ""
+"Il browser in uso <strong>non è aggiornato</strong>. <a href=\"http://"
+"browsehappy.com/\">Aggiornalo ora</a> per migliorare la fruizione di questo "
+"sito."
+
+#: server/templates/pages/src/index.html:3
+msgid "Firefox Accounts requires JavaScript."
+msgstr "Per poter utilizzare Firefox Account è necessario attivare JavaScript."
+
+#: server/templates/pages/src/privacy.html:2
+#: server/templates/pages/src/privacy.html:5
+msgid "Privacy Notice"
+msgstr "Informativa sulla privacy"
+
+#: server/templates/pages/src/privacy.html:4
+#: server/templates/pages/src/terms.html:4
+msgid "Firefox cloud services"
+msgstr "Servizi cloud di Firefox"
+
+#: server/templates/pages/src/terms.html:2
+#: server/templates/pages/src/terms.html:5
+msgid "Terms of Service"
+msgstr "Termini di servizio"
+
+#: server/templates/email/reset.html:2 server/templates/email/reset.txt:1
+msgid "Are you sure?"
+msgstr "Procedere con l’operazione?"
+
+#: server/templates/email/reset.html:3 server/templates/email/reset.txt:2
+msgid "Please confirm that you'd like to reset the password for %(email)s."
+msgstr "È necessaria una conferma per reimpostare la password per %(email)s."
+
+#: server/templates/email/reset.html:4
+msgid "Reset password"
+msgstr "Reimposta la password"
+
+#: server/templates/email/reset.html:5 server/templates/email/reset.txt:4
+#: server/templates/email/verify.html:5 server/templates/email/verify.txt:4
+msgid ""
+"This is an automated email; if you received it in error, no action is "
+"required."
+msgstr ""
+"Questa email è stata inviata da un servizio automatico, se hai ricevuto "
+"questa e-mail per errore, puoi semplicemente ignorarla."
+
+#: server/templates/email/reset.html:6 server/templates/email/verify.html:6
+msgid ""
+"For more information, please visit <a href='https://support.mozilla."
+"org'>Mozilla Support</a>"
+msgstr ""
+"Per ulteriori informazioni visita il <a href='https://support.mozilla."
+"org'>sito di supporto Mozilla</a>"
+
+#: server/templates/email/reset.txt:3
+msgid "Reset password:"
+msgstr "Reimposta la password:"
+
+#: server/templates/email/reset.txt:5 server/templates/email/verify.txt:5
+msgid "For more information, please visit https://support.mozilla.org"
+msgstr "Per ulteriori informazioni visita https://support.mozilla.org"
+
+#: server/templates/email/verify.html:2 server/templates/email/verify.txt:1
+msgid "Congratulations!"
+msgstr "Complimenti!"
+
+#: server/templates/email/verify.html:3 server/templates/email/verify.txt:2
+msgid "%(email)s, you're one click away from verifying your Firefox Account."
+msgstr ""
+"%(email)s, tra pochi secondi questo account Firefox Account sarà confermato."
+
+#: server/templates/email/verify.html:4
+msgid "Verify"
+msgstr "Conferma"
+
+#: server/templates/email/verify.txt:3
+msgid "Verify:"
+msgstr "Conferma:"
+
+#: server/lib/templates.js:63
+msgid "Verify your account"
+msgstr "Conferma l’account"
+
+#: server/lib/templates.js:68
+msgid "Reset your password"
+msgstr "Reimposta password"
+
+#~ msgid "Reset Password Request"
+#~ msgstr "Richiesta di reimpostazione della password"

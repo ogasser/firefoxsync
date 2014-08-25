@@ -1,0 +1,162 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-08-19 20:39+0000\n"
+"PO-Revision-Date: 2014-05-06 08:47+0000\n"
+"Last-Translator: Wim <fryskefirefox@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: fy\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1399366028.0\n"
+
+#: server/templates/pages/src/404.html:1 server/templates/pages/src/500.html:1
+#: server/templates/pages/src/503.html:1
+#: server/templates/pages/src/index.html:1
+#: server/templates/pages/src/privacy.html:1
+#: server/templates/pages/src/terms.html:1 server/templates/email/reset.html:1
+#: server/templates/email/verify.html:1
+msgid "Firefox Accounts"
+msgstr "Firefox-accounts"
+
+#: server/templates/pages/src/404.html:2
+msgid "Page not found"
+msgstr "Side net fûn"
+
+#: server/templates/pages/src/404.html:3
+msgid ""
+"The page you requested is not found. We've been notified and will fix any "
+"links that may be broken."
+msgstr ""
+"De opfrege side waard net fûn. Wy binne op de hichte en sille keppelingen "
+"dy't mooglik net wurkje werstelle."
+
+#: server/templates/pages/src/404.html:4 server/templates/pages/src/500.html:4
+#: server/templates/pages/src/503.html:4
+#: server/templates/pages/src/privacy.html:6
+#: server/templates/pages/src/terms.html:6
+msgid "Home"
+msgstr "Start"
+
+#: server/templates/pages/src/500.html:2
+msgid "System unavailable, try again soon"
+msgstr "Systeem net beskikber, probearje it letter opnij"
+
+#: server/templates/pages/src/500.html:3
+msgid ""
+"We are currently performing some maintenance on the system, and will return "
+"momentarily."
+msgstr ""
+"Der wurdt op dit stuit wat ûnderhâld oan it systeem útfierd en wy binne "
+"ynkoarten wer beskikber."
+
+#: server/templates/pages/src/503.html:2
+msgid "Server busy, try again soon"
+msgstr "Server beset, probearje it letter opnij"
+
+#: server/templates/pages/src/503.html:3
+msgid ""
+"We are currently under heavy strain and are working to return the system to "
+"normal as soon as possible."
+msgstr ""
+"Wy stean op dit stuit ûnder hege druk en wurkje oan in sa gau mooglik "
+"werstel fan it systeem."
+
+#: server/templates/pages/src/index.html:2
+#: server/templates/pages/src/privacy.html:3
+#: server/templates/pages/src/terms.html:3
+msgid ""
+"You are using an <strong>outdated</strong> browser. Please <a href=\"http://"
+"browsehappy.com/\">upgrade your browser</a> to improve your experience."
+msgstr ""
+"Jo brûke in <strong>ferâldere</strong> browser. <a href=\"http://browsehappy."
+"com/\">Fernij jo browser</a> om jo ûnderfining te ferbetterjen."
+
+#: server/templates/pages/src/index.html:3
+msgid "Firefox Accounts requires JavaScript."
+msgstr "Firefox-accounts fereasket JavaScript."
+
+#: server/templates/pages/src/privacy.html:2
+#: server/templates/pages/src/privacy.html:5
+msgid "Privacy Notice"
+msgstr "Privacyferklearring"
+
+#: server/templates/pages/src/privacy.html:4
+#: server/templates/pages/src/terms.html:4
+msgid "Firefox cloud services"
+msgstr "Firefox-cloudtsjinsten"
+
+#: server/templates/pages/src/terms.html:2
+#: server/templates/pages/src/terms.html:5
+msgid "Terms of Service"
+msgstr "Servicebetingsten"
+
+#: server/templates/email/reset.html:2 server/templates/email/reset.txt:1
+msgid "Are you sure?"
+msgstr "Binne jo wis?"
+
+#: server/templates/email/reset.html:3 server/templates/email/reset.txt:2
+msgid "Please confirm that you'd like to reset the password for %(email)s."
+msgstr "Befêstigje dat jo it wachtwurd foar %(email)s opnij ynstelle wolle."
+
+#: server/templates/email/reset.html:4
+msgid "Reset password"
+msgstr "Wachtwurd werinisjalisearje"
+
+#: server/templates/email/reset.html:5 server/templates/email/reset.txt:4
+#: server/templates/email/verify.html:5 server/templates/email/verify.txt:4
+msgid ""
+"This is an automated email; if you received it in error, no action is "
+"required."
+msgstr ""
+"Dit is in automatysk e-mailberjocht; as jo it troch fersin ûntfongen hawwe, "
+"hoege jo neat te dwaan."
+
+#: server/templates/email/reset.html:6 server/templates/email/verify.html:6
+msgid ""
+"For more information, please visit <a href='https://support.mozilla."
+"org'>Mozilla Support</a>"
+msgstr ""
+"Besykje foar mear ynformaasje <a href='https://support.mozilla.org'>Mozilla "
+"Support</a>"
+
+#: server/templates/email/reset.txt:3
+msgid "Reset password:"
+msgstr "Wachtwurd werinisjalisearje:"
+
+#: server/templates/email/reset.txt:5 server/templates/email/verify.txt:5
+msgid "For more information, please visit https://support.mozilla.org"
+msgstr "Besykje foar mear ynformaasje https://support.mozilla.org"
+
+#: server/templates/email/verify.html:2 server/templates/email/verify.txt:1
+msgid "Congratulations!"
+msgstr "Lokwinske!"
+
+#: server/templates/email/verify.html:3 server/templates/email/verify.txt:2
+msgid "%(email)s, you're one click away from verifying your Firefox Account."
+msgstr ""
+"%(email)s, jo binne noch ien mûsklik ôf fan ferifikaasje fan jo Firefox-"
+"account."
+
+#: server/templates/email/verify.html:4
+msgid "Verify"
+msgstr "Ferifiearje"
+
+#: server/templates/email/verify.txt:3
+msgid "Verify:"
+msgstr "Ferifiearje:"
+
+#: server/lib/templates.js:63
+msgid "Verify your account"
+msgstr "Ferifiearje jo account"
+
+#: server/lib/templates.js:68
+msgid "Reset your password"
+msgstr "Wachtwurd werinisjalisearje"
+
+#~ msgid "Reset Password Request"
+#~ msgstr "Oanfraach foar wachtwurdwerinisjalisaasje"
