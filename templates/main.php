@@ -16,12 +16,13 @@
 <p><b>FirefoxSync registration for user <?php p($_['user']) ?></b></p>
 
 <br>
+<form>
+<div>Email: <input id="email" type="email" name="email"></div>
 
-<p>Email: <input id="email" type="email" name="email"></p>
-
-<p>Pw: <input id="text" type="text" name="text"></p>
+<div>Pw: <input id="text" type="text" name="text"></div>
 
 <br>
 
-<p><button id="hello">Create account</button></p>
+<div><button id="submit_btn" type="submit">Create account</button></div>
+</form>
 </center>
