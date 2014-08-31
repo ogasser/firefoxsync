@@ -48,7 +48,7 @@ function (
       try {
           alert("bluB");
         // TODO FIXME Change hard-coded path to OC API
-        document.cookie = '__cookie_check=1; path=/owncloud/apps/firefoxsync/config;';
+        document.cookie = '__cookie_check=1; path=/owncloud/index.php/apps/firefoxsync/config;';
       } catch(e) {
         // some browsers explode when trying to set cookies if they are
         // disabled. Ignore the error, the server will report back that it
@@ -57,8 +57,8 @@ function (
 
       var self = this;
       // TODO FIXME Change hard-coded path to OC API
-      alert("AAaaAAA");
-      return p.jQueryXHR($.getJSON('/owncloud/apps/firefoxsync/config'))
+      alert("OLIVER");
+      return p.jQueryXHR($.getJSON('/owncloud/index.php/apps/firefoxsync/config'))
           .then(function (config) {
             self._config = config;
             return config;
