@@ -40,9 +40,10 @@ require.config({
 
 
 require([
-  './lib/app-start'
+  './lib/app-start',
+  './lib/sign-up'
 ],
-function (AppStart) {
+function (AppStart, SignUp) {
   var appStart = new AppStart();
   appStart.startApp();
 });

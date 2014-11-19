@@ -19,10 +19,10 @@
 <form>
 <div>Email: <input id="email" type="email" name="email"></div>
 
-<div>Pw: <input id="text" type="text" name="text"></div>
+<div>Pw: <input id="password" type="text" name="text"></div>
 
 <br>
 
-<div><button id="submit_btn" type="submit">Create account</button></div>
+<div><button id="submit_btn" onclick="createAccount($('#email').val(), $('#password').val())">Create account</button></div>
 </form>
 </center>

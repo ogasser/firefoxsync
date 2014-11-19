@@ -176,6 +176,7 @@ function (_, p, BaseView, FormView, Template, Session, PasswordMixin, AuthErrors
     },
 
     _createAccount: function () {
+        alert("einszweidrei");
       var email = this.$('.email').val();
       var password = this.$('.password').val();
       var customizeSync = this.$('.customize-sync').is(':checked');
